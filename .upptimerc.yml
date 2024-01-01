@@ -7,18 +7,36 @@ sites:
     url: https://api.20megatons.com/
   - name: "20 Megatons (Landing)"
     url: https://20megatons.com/
-  - name: Koç Sistem
-    url: https://www.kocsistem.com.tr
   - name: Brewww
     url: https://brewww.com/
   - name: Hasbro Katalog
     url: https://hasbrokatalog.com/
+  - name: Kansersiz Hayat
+    url: https://kansersizhayat.com/
+  - name: KS Koç Sistem
+    url: https://www.kocsistem.com.tr
+  - name: KS Aile Saati
+    url: https://ailesaati.kocsistem.com.tr/
+  - name: KS Apple
+    url: https://apple.kocsistem.com.tr/
+  - name: KS Azure
+    url: https://azure.kocsistem.com.tr/
+  - name: KS HREdition
+    url: https://hredition.com/
+  - name: KS Pixage
+    url: https://www.pixage.com.tr/
+  - name: KS Techsquare
+    url: https://techsquare.com.tr/
+  - name: KS Workplace
+    url: https://workplace.kocsistem.com.tr/
+  - name: UIP
+    url: https://www.uip.com.tr/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
-  baseUrl: /brewinteractive
+  # baseUrl: /brewinteractive
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
