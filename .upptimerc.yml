@@ -9,6 +9,10 @@ sites:
     url: https://20megatons.com/
   - name: Koç Sistem
     url: https://www.kocsistem.com.tr
+  - name: Brewww
+    url: https://brewww.com/
+  - name: Hasbro Katalog
+    url: https://hasbrokatalog.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
