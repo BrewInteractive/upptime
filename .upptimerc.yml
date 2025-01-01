@@ -21,8 +21,6 @@ sites:
     url: https://apple.kocsistem.com.tr/
   - name: KS Azure
     url: https://azure.kocsistem.com.tr/
-  - name: KS HREdition
-    url: https://hredition.com/
   - name: KS Pixage
     url: https://www.pixage.com.tr/
   - name: KS Techsquare
