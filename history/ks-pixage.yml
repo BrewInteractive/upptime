@@ -1,7 +1,7 @@
 url: https://www.pixage.com.tr/
-status: up
-code: 200
-responseTime: 3193
-lastUpdated: 2025-01-21T04:39:22.859Z
+status: down
+code: 502
+responseTime: 560
+lastUpdated: 2025-01-21T04:53:00.526Z
 startTime: 2024-01-01T13:23:18.386Z
 generator: Upptime <https://github.com/upptime/upptime>
