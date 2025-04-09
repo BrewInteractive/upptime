@@ -1,7 +1,7 @@
 url: https://workplace.kocsistem.com.tr/
-status: up
-code: 200
-responseTime: 5119
-lastUpdated: 2025-04-08T23:04:05.107Z
+status: down
+code: 500
+responseTime: 779
+lastUpdated: 2025-04-09T04:08:00.728Z
 startTime: 2024-01-01T13:23:23.805Z
 generator: Upptime <https://github.com/upptime/upptime>
