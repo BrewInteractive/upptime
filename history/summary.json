@@ -10,9 +10,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 436,
-    "timeDay": 374,
-    "timeWeek": 466,
+    "time": 437,
+    "timeDay": 446,
+    "timeWeek": 440,
     "timeMonth": 444,
     "timeYear": 443,
     "dailyMinutesDown": {}
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2039,
-    "timeDay": 1928,
-    "timeWeek": 2208,
-    "timeMonth": 2165,
-    "timeYear": 2058,
+    "timeDay": 1905,
+    "timeWeek": 2090,
+    "timeMonth": 2162,
+    "timeYear": 2056,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 671,
-    "timeDay": 486,
-    "timeWeek": 535,
+    "time": 670,
+    "timeDay": 524,
+    "timeWeek": 519,
     "timeMonth": 551,
-    "timeYear": 645,
+    "timeYear": 644,
     "dailyMinutesDown": {}
   },
   {
@@ -65,8 +65,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 634,
-    "timeDay": 606,
-    "timeWeek": 699,
+    "timeDay": 609,
+    "timeWeek": 670,
     "timeMonth": 703,
     "timeYear": 639,
     "dailyMinutesDown": {}
@@ -83,9 +83,9 @@
     "uptimeMonth": "99.04%",
     "uptimeYear": "98.69%",
     "time": 568,
-    "timeDay": 581,
-    "timeWeek": 547,
-    "timeMonth": 542,
+    "timeDay": 569,
+    "timeWeek": 532,
+    "timeMonth": 544,
     "timeYear": 527,
     "dailyMinutesDown": {
       "2025-05-02": 420,
@@ -116,17 +116,16 @@
     "slug": "ks-koc-sistem",
     "status": "up",
     "uptime": "98.30%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "98.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "98.95%",
     "uptimeYear": "97.82%",
-    "time": 3164,
-    "timeDay": 3664,
-    "timeWeek": 6930,
-    "timeMonth": 4204,
-    "timeYear": 3115,
+    "time": 3172,
+    "timeDay": 5900,
+    "timeWeek": 7390,
+    "timeMonth": 4277,
+    "timeYear": 3127,
     "dailyMinutesDown": {
-      "2025-05-23": 5,
       "2025-05-20": 15,
       "2025-05-12": 80,
       "2025-05-08": 366,
@@ -166,8 +165,7 @@
       "2024-07-15": 1440,
       "2024-07-14": 1440,
       "2024-07-13": 108,
-      "2024-06-04": 49,
-      "2024-05-24": 147
+      "2024-06-04": 49
     }
   },
   {
@@ -176,16 +174,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ailesaati.kocsistem.com.tr.ico",
     "slug": "ks-aile-saati",
     "status": "up",
-    "uptime": "55.74%",
+    "uptime": "55.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.81%",
     "uptimeYear": "39.01%",
-    "time": 2612,
-    "timeDay": 3450,
-    "timeWeek": 2480,
-    "timeMonth": 2720,
-    "timeYear": 2299,
+    "time": 2601,
+    "timeDay": 2285,
+    "timeWeek": 2414,
+    "timeMonth": 2724,
+    "timeYear": 2297,
     "dailyMinutesDown": {
       "2025-05-16": 75,
       "2025-05-12": 79,
@@ -418,8 +416,7 @@
       "2024-06-15": 1440,
       "2024-06-14": 1440,
       "2024-06-13": 781,
-      "2024-06-04": 43,
-      "2024-05-24": 147
+      "2024-06-04": 43
     }
   },
   {
@@ -428,16 +425,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/apple.kocsistem.com.tr.ico",
     "slug": "ks-apple",
     "status": "up",
-    "uptime": "55.81%",
+    "uptime": "55.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.20%",
     "uptimeYear": "39.05%",
-    "time": 1913,
-    "timeDay": 1671,
-    "timeWeek": 1244,
-    "timeMonth": 2011,
-    "timeYear": 1472,
+    "time": 1909,
+    "timeDay": 961,
+    "timeWeek": 1212,
+    "timeMonth": 2000,
+    "timeYear": 1469,
     "dailyMinutesDown": {
       "2025-05-12": 57,
       "2025-05-08": 296,
@@ -668,8 +665,7 @@
       "2024-06-15": 1440,
       "2024-06-14": 1440,
       "2024-06-13": 780,
-      "2024-06-04": 42,
-      "2024-05-24": 147
+      "2024-06-04": 42
     }
   },
   {
@@ -678,16 +674,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/azure.kocsistem.com.tr.ico",
     "slug": "ks-azure",
     "status": "up",
-    "uptime": "55.63%",
+    "uptime": "55.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.27%",
     "uptimeYear": "39.07%",
-    "time": 1903,
-    "timeDay": 1295,
-    "timeWeek": 1035,
-    "timeMonth": 1902,
-    "timeYear": 1459,
+    "time": 1901,
+    "timeDay": 1054,
+    "timeWeek": 1041,
+    "timeMonth": 1882,
+    "timeYear": 1460,
     "dailyMinutesDown": {
       "2025-05-12": 44,
       "2025-05-08": 275,
@@ -916,8 +912,7 @@
       "2024-06-15": 1440,
       "2024-06-14": 1440,
       "2024-06-13": 780,
-      "2024-06-04": 42,
-      "2024-05-24": 156
+      "2024-06-04": 42
     }
   },
   {
@@ -931,10 +926,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.96%",
-    "time": 2157,
-    "timeDay": 1560,
-    "timeWeek": 1710,
-    "timeMonth": 1988,
+    "time": 2160,
+    "timeDay": 2951,
+    "timeWeek": 1768,
+    "timeMonth": 2004,
     "timeYear": 2202,
     "dailyMinutesDown": {
       "2025-04-25": 82,
@@ -960,7 +955,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-23": 1184,
+      "2025-05-24": 20,
+      "2025-05-23": 1440,
       "2025-05-22": 1440,
       "2025-05-21": 1440,
       "2025-05-20": 1440,
@@ -1323,8 +1319,7 @@
       "2024-05-28": 1440,
       "2024-05-27": 1440,
       "2024-05-26": 1440,
-      "2024-05-25": 1440,
-      "2024-05-24": 1440
+      "2024-05-25": 1440
     }
   },
   {
@@ -1333,16 +1328,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/workplace.kocsistem.com.tr.ico",
     "slug": "ks-workplace",
     "status": "up",
-    "uptime": "55.71%",
+    "uptime": "55.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.63%",
     "uptimeYear": "39.02%",
-    "time": 2099,
-    "timeDay": 1811,
-    "timeWeek": 1696,
-    "timeMonth": 2236,
-    "timeYear": 1848,
+    "time": 2100,
+    "timeDay": 2338,
+    "timeWeek": 1733,
+    "timeMonth": 2247,
+    "timeYear": 1854,
     "dailyMinutesDown": {
       "2025-05-16": 119,
       "2025-05-12": 55,
@@ -1574,8 +1569,7 @@
       "2024-06-15": 1440,
       "2024-06-14": 1440,
       "2024-06-13": 780,
-      "2024-06-04": 40,
-      "2024-05-24": 147
+      "2024-06-04": 40
     }
   },
   {
@@ -1590,13 +1584,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 567,
-    "timeDay": 315,
-    "timeWeek": 427,
-    "timeMonth": 497,
-    "timeYear": 567,
+    "timeDay": 389,
+    "timeWeek": 442,
+    "timeMonth": 495,
+    "timeYear": 566,
     "dailyMinutesDown": {
-      "2024-07-04": 18,
-      "2024-05-24": 85
+      "2024-07-04": 18
     }
   },
   {
@@ -1605,16 +1598,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/dijitalisgucu.kocsistem.com.tr.ico",
     "slug": "ks-dijital-is-guecue",
     "status": "up",
-    "uptime": "51.09%",
+    "uptime": "51.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.40%",
     "uptimeMonth": "99.01%",
     "uptimeYear": "39.03%",
-    "time": 1670,
-    "timeDay": 1251,
-    "timeWeek": 927,
-    "timeMonth": 1732,
-    "timeYear": 1421,
+    "time": 1673,
+    "timeDay": 1959,
+    "timeWeek": 962,
+    "timeMonth": 1749,
+    "timeYear": 1426,
     "dailyMinutesDown": {
       "2025-05-18": 61,
       "2025-05-14": 22,
@@ -1847,8 +1840,7 @@
       "2024-06-15": 1440,
       "2024-06-14": 1440,
       "2024-06-13": 780,
-      "2024-06-04": 40,
-      "2024-05-24": 148
+      "2024-06-04": 40
     }
   },
   {
@@ -1862,11 +1854,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.85%",
     "uptimeYear": "88.42%",
-    "time": 2233,
-    "timeDay": 1862,
-    "timeWeek": 2625,
-    "timeMonth": 2121,
-    "timeYear": 1897,
+    "time": 2228,
+    "timeDay": 2816,
+    "timeWeek": 2712,
+    "timeMonth": 2145,
+    "timeYear": 1899,
     "dailyMinutesDown": {
       "2025-05-16": 118,
       "2025-05-12": 20,
@@ -1928,8 +1920,7 @@
       "2024-06-15": 1440,
       "2024-06-14": 1440,
       "2024-06-13": 439,
-      "2024-06-04": 39,
-      "2024-05-24": 148
+      "2024-06-04": 39
     }
   }
 ]
