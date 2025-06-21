@@ -1,7 +1,7 @@
 url: https://ailesaati.kocsistem.com.tr/
-status: up
-code: 200
-responseTime: 3524
-lastUpdated: 2025-06-20T23:04:02.351Z
+status: down
+code: 500
+responseTime: 1644
+lastUpdated: 2025-06-21T04:23:15.911Z
 startTime: 2024-01-01T13:23:06.636Z
 generator: Upptime <https://github.com/upptime/upptime>
