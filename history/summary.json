@@ -122,10 +122,10 @@
     "url": "https://www.kocsistem.com.tr",
     "icon": "https://icons.duckduckgo.com/ip3/www.kocsistem.com.tr.ico",
     "slug": "ks-koc-sistem",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
-    "uptimeDay": "98.88%",
-    "uptimeWeek": "98.52%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "98.51%",
     "uptimeMonth": "98.58%",
     "uptimeYear": "99.35%",
     "time": 4361,
@@ -134,6 +134,7 @@
     "timeMonth": 5491,
     "timeYear": 4649,
     "dailyMinutesDown": {
+      "2025-09-28": 0,
       "2025-09-27": 16,
       "2025-09-26": 17,
       "2025-09-23": 39,
@@ -207,7 +208,7 @@
       "2024-12-15": 16,
       "2024-11-19": 32,
       "2024-11-06": 59,
-      "2024-10-16": 38
+      "2024-10-16": 23
     }
   },
   {
@@ -750,7 +751,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-28": 22,
+      "2025-09-28": 40,
       "2025-09-27": 1440,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
