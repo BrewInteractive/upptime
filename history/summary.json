@@ -124,9 +124,9 @@
     "slug": "ks-koc-sistem",
     "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "97.71%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "99.42%",
+    "uptimeDay": "97.25%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.41%",
     "uptimeYear": "99.34%",
     "time": 4434,
     "timeDay": 2898,
@@ -134,7 +134,8 @@
     "timeMonth": 3414,
     "timeYear": 4718,
     "dailyMinutesDown": {
-      "2025-10-22": 33,
+      "2025-10-23": 5,
+      "2025-10-22": 35,
       "2025-10-12": 19,
       "2025-10-07": 102,
       "2025-09-28": 26,
@@ -218,9 +219,9 @@
     "slug": "ks-aile-saati",
     "status": "down",
     "uptime": "65.70%",
-    "uptimeDay": "97.78%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.60%",
+    "uptimeDay": "97.33%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.58%",
     "uptimeYear": "74.66%",
     "time": 2864,
     "timeDay": 2475,
@@ -228,7 +229,8 @@
     "timeMonth": 2821,
     "timeYear": 2863,
     "dailyMinutesDown": {
-      "2025-10-22": 32,
+      "2025-10-23": 5,
+      "2025-10-22": 34,
       "2025-10-12": 18,
       "2025-10-07": 102,
       "2025-09-23": 25,
@@ -358,8 +360,7 @@
       "2024-10-27": 1440,
       "2024-10-26": 1440,
       "2024-10-25": 1440,
-      "2024-10-24": 1440,
-      "2024-10-23": 1440
+      "2024-10-24": 1440
     }
   },
   {
@@ -367,19 +368,20 @@
     "url": "https://apple.kocsistem.com.tr/",
     "icon": "https://icons.duckduckgo.com/ip3/apple.kocsistem.com.tr.ico",
     "slug": "ks-apple",
-    "status": "down",
+    "status": "up",
     "uptime": "65.84%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.75%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.74%",
     "uptimeYear": "74.86%",
-    "time": 1960,
-    "timeDay": 1511,
-    "timeWeek": 2225,
-    "timeMonth": 2020,
-    "timeYear": 2081,
+    "time": 1974,
+    "timeDay": 3262,
+    "timeWeek": 2603,
+    "timeMonth": 2125,
+    "timeYear": 2093,
     "dailyMinutesDown": {
-      "2025-10-22": 9,
+      "2025-10-23": 2,
+      "2025-10-22": 11,
       "2025-10-07": 63,
       "2025-09-23": 38,
       "2025-09-22": 70,
@@ -505,8 +507,7 @@
       "2024-10-27": 1440,
       "2024-10-26": 1440,
       "2024-10-25": 1440,
-      "2024-10-24": 1440,
-      "2024-10-23": 1440
+      "2024-10-24": 1440
     }
   },
   {
@@ -516,9 +517,9 @@
     "slug": "ks-azure",
     "status": "down",
     "uptime": "65.74%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.83%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "74.93%",
     "time": 1929,
     "timeDay": 1183,
@@ -526,7 +527,8 @@
     "timeMonth": 1715,
     "timeYear": 1931,
     "dailyMinutesDown": {
-      "2025-10-22": 9,
+      "2025-10-23": 5,
+      "2025-10-22": 11,
       "2025-10-07": 27,
       "2025-09-23": 38,
       "2025-09-22": 24,
@@ -642,8 +644,7 @@
       "2024-10-27": 1440,
       "2024-10-26": 1440,
       "2024-10-25": 1440,
-      "2024-10-24": 1440,
-      "2024-10-23": 1440
+      "2024-10-24": 1440
     }
   },
   {
@@ -686,7 +687,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-22": 1438,
+      "2025-10-23": 5,
+      "2025-10-22": 1440,
       "2025-10-21": 1440,
       "2025-10-20": 1440,
       "2025-10-19": 1440,
@@ -1049,8 +1051,7 @@
       "2024-10-27": 1440,
       "2024-10-26": 1440,
       "2024-10-25": 1440,
-      "2024-10-24": 1440,
-      "2024-10-23": 1440
+      "2024-10-24": 1440
     }
   },
   {
@@ -1058,19 +1059,20 @@
     "url": "https://workplace.kocsistem.com.tr/",
     "icon": "https://icons.duckduckgo.com/ip3/workplace.kocsistem.com.tr.ico",
     "slug": "ks-workplace",
-    "status": "down",
+    "status": "up",
     "uptime": "65.75%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.76%",
+    "uptimeDay": "99.12%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.75%",
     "uptimeYear": "74.78%",
-    "time": 2734,
-    "timeDay": 1860,
-    "timeWeek": 2796,
-    "timeMonth": 2956,
-    "timeYear": 2847,
+    "time": 2745,
+    "timeDay": 4006,
+    "timeWeek": 3131,
+    "timeMonth": 3027,
+    "timeYear": 2855,
     "dailyMinutesDown": {
-      "2025-10-22": 8,
+      "2025-10-23": 3,
+      "2025-10-22": 10,
       "2025-10-07": 61,
       "2025-09-23": 37,
       "2025-09-22": 46,
@@ -1191,8 +1193,7 @@
       "2024-10-27": 1440,
       "2024-10-26": 1440,
       "2024-10-25": 1440,
-      "2024-10-24": 1440,
-      "2024-10-23": 1440
+      "2024-10-24": 1440
     }
   },
   {
@@ -1218,19 +1219,19 @@
     "url": "https://dijitalisgucu.kocsistem.com.tr/",
     "icon": "https://icons.duckduckgo.com/ip3/dijitalisgucu.kocsistem.com.tr.ico",
     "slug": "ks-dijital-is-guecue",
-    "status": "up",
-    "uptime": "62.48%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.76%",
+    "status": "down",
+    "uptime": "62.49%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.77%",
     "uptimeYear": "74.78%",
-    "time": 2114,
+    "time": 2116,
     "timeDay": 1135,
     "timeWeek": 1717,
     "timeMonth": 2084,
     "timeYear": 2189,
     "dailyMinutesDown": {
-      "2025-10-22": 6,
+      "2025-10-23": 1,
       "2025-10-07": 99,
       "2025-09-22": 26,
       "2025-09-18": 19,
@@ -1352,8 +1353,7 @@
       "2024-10-27": 1440,
       "2024-10-26": 1440,
       "2024-10-25": 1440,
-      "2024-10-24": 1440,
-      "2024-10-23": 1440
+      "2024-10-24": 1440
     }
   },
   {
@@ -1363,9 +1363,9 @@
     "slug": "ks-dijital-academy",
     "status": "down",
     "uptime": "92.53%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "98.16%",
     "time": 2385,
     "timeDay": 1107,
@@ -1373,7 +1373,8 @@
     "timeMonth": 2739,
     "timeYear": 2408,
     "dailyMinutesDown": {
-      "2025-10-22": 7,
+      "2025-10-23": 5,
+      "2025-10-22": 8,
       "2025-10-07": 64,
       "2025-09-15": 35,
       "2025-09-13": 40,
