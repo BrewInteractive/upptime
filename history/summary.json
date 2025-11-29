@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 457,
-    "timeDay": 365,
-    "timeWeek": 441,
-    "timeMonth": 477,
+    "timeDay": 517,
+    "timeWeek": 438,
+    "timeMonth": 482,
     "timeYear": 462,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 2069,
-    "timeDay": 2046,
-    "timeWeek": 2185,
-    "timeMonth": 2281,
-    "timeYear": 2093,
+    "time": 2070,
+    "timeDay": 2442,
+    "timeWeek": 2174,
+    "timeMonth": 2293,
+    "timeYear": 2094,
     "dailyMinutesDown": {
       "2025-06-22": 44
     }
@@ -49,10 +49,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 623,
-    "timeDay": 530,
-    "timeWeek": 630,
-    "timeMonth": 619,
-    "timeYear": 594,
+    "timeDay": 462,
+    "timeWeek": 587,
+    "timeMonth": 617,
+    "timeYear": 593,
     "dailyMinutesDown": {}
   },
   {
@@ -61,16 +61,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/villasepeti.com.ico",
     "slug": "villa-sepeti",
     "status": "up",
-    "uptime": "99.44%",
+    "uptime": "99.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.44%",
-    "uptimeYear": "99.44%",
-    "time": 880,
-    "timeDay": 1026,
-    "timeWeek": 971,
-    "timeMonth": 880,
-    "timeYear": 880,
+    "uptimeMonth": "99.45%",
+    "uptimeYear": "99.45%",
+    "time": 881,
+    "timeDay": 915,
+    "timeWeek": 930,
+    "timeMonth": 881,
+    "timeYear": 881,
     "dailyMinutesDown": {
       "2025-11-18": 134
     }
@@ -86,10 +86,10 @@
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.12%",
     "uptimeYear": "98.35%",
-    "time": 584,
-    "timeDay": 512,
-    "timeWeek": 528,
-    "timeMonth": 559,
+    "time": 585,
+    "timeDay": 706,
+    "timeWeek": 531,
+    "timeMonth": 562,
     "timeYear": 607,
     "dailyMinutesDown": {
       "2025-11-23": 16,
@@ -131,17 +131,16 @@
     "slug": "ks-koc-sistem",
     "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.19%",
-    "uptimeYear": "99.37%",
-    "time": 4507,
-    "timeDay": 3172,
-    "timeWeek": 3321,
-    "timeMonth": 3726,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.21%",
+    "uptimeYear": "99.36%",
+    "time": 4505,
+    "timeDay": 2806,
+    "timeWeek": 3251,
+    "timeMonth": 3717,
     "timeYear": 4728,
     "dailyMinutesDown": {
-      "2025-11-28": 9,
       "2025-11-27": 20,
       "2025-11-17": 26,
       "2025-11-12": 123,
@@ -214,7 +213,7 @@
       "2025-05-27": 23,
       "2025-05-20": 15,
       "2025-05-12": 80,
-      "2025-05-08": 97
+      "2025-05-08": 126
     }
   },
   {
@@ -223,16 +222,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ailesaati.kocsistem.com.tr.ico",
     "slug": "ks-aile-saati",
     "status": "up",
-    "uptime": "67.48%",
-    "uptimeDay": "98.95%",
+    "uptime": "67.49%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.41%",
-    "uptimeYear": "84.65%",
-    "time": 2919,
-    "timeDay": 4168,
-    "timeWeek": 2625,
-    "timeMonth": 3303,
-    "timeYear": 2918,
+    "uptimeYear": "84.74%",
+    "time": 2917,
+    "timeDay": 2130,
+    "timeWeek": 2572,
+    "timeMonth": 3301,
+    "timeYear": 2916,
     "dailyMinutesDown": {
       "2025-11-27": 15,
       "2025-11-12": 98,
@@ -333,8 +332,7 @@
       "2024-12-03": 1440,
       "2024-12-02": 1440,
       "2024-12-01": 1440,
-      "2024-11-30": 1440,
-      "2024-11-29": 1440
+      "2024-11-30": 1440
     }
   },
   {
@@ -343,16 +341,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/apple.kocsistem.com.tr.ico",
     "slug": "ks-apple",
     "status": "up",
-    "uptime": "67.61%",
+    "uptime": "67.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.40%",
-    "uptimeYear": "84.85%",
-    "time": 2107,
-    "timeDay": 1181,
-    "timeWeek": 2428,
-    "timeMonth": 2254,
-    "timeYear": 2108,
+    "uptimeYear": "84.94%",
+    "time": 2106,
+    "timeDay": 1527,
+    "timeWeek": 2422,
+    "timeMonth": 2264,
+    "timeYear": 2107,
     "dailyMinutesDown": {
       "2025-11-17": 25,
       "2025-11-12": 113,
@@ -447,8 +445,7 @@
       "2024-12-03": 1440,
       "2024-12-02": 1440,
       "2024-12-01": 1440,
-      "2024-11-30": 1440,
-      "2024-11-29": 1440
+      "2024-11-30": 1440
     }
   },
   {
@@ -457,16 +454,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/azure.kocsistem.com.tr.ico",
     "slug": "ks-azure",
     "status": "up",
-    "uptime": "67.52%",
+    "uptime": "67.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.61%",
-    "uptimeYear": "84.94%",
-    "time": 2024,
-    "timeDay": 5172,
-    "timeWeek": 4100,
-    "timeMonth": 2798,
-    "timeYear": 2026,
+    "uptimeYear": "85.02%",
+    "time": 2022,
+    "timeDay": 3237,
+    "timeWeek": 3574,
+    "timeMonth": 2789,
+    "timeYear": 2023,
     "dailyMinutesDown": {
       "2025-11-12": 101,
       "2025-11-08": 22,
@@ -552,8 +549,7 @@
       "2024-12-03": 1440,
       "2024-12-02": 1440,
       "2024-12-01": 1440,
-      "2024-11-30": 1440,
-      "2024-11-29": 1440
+      "2024-11-30": 1440
     }
   },
   {
@@ -567,11 +563,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 1710,
-    "timeDay": 646,
-    "timeWeek": 692,
-    "timeMonth": 751,
-    "timeYear": 1518,
+    "time": 1708,
+    "timeDay": 737,
+    "timeWeek": 685,
+    "timeMonth": 754,
+    "timeYear": 1512,
     "dailyMinutesDown": {
       "2025-06-21": 84,
       "2025-04-25": 82,
@@ -596,7 +592,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-28": 1008,
+      "2025-11-29": 20,
+      "2025-11-28": 1440,
       "2025-11-27": 1440,
       "2025-11-26": 1440,
       "2025-11-25": 1440,
@@ -959,8 +956,7 @@
       "2024-12-03": 1440,
       "2024-12-02": 1440,
       "2024-12-01": 1440,
-      "2024-11-30": 1440,
-      "2024-11-29": 1440
+      "2024-11-30": 1440
     }
   },
   {
@@ -969,16 +965,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/workplace.kocsistem.com.tr.ico",
     "slug": "ks-workplace",
     "status": "up",
-    "uptime": "67.53%",
+    "uptime": "67.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.60%",
-    "uptimeYear": "84.80%",
-    "time": 2861,
-    "timeDay": 1227,
-    "timeWeek": 2280,
-    "timeMonth": 2891,
-    "timeYear": 2861,
+    "uptimeYear": "84.88%",
+    "time": 2858,
+    "timeDay": 1426,
+    "timeWeek": 1811,
+    "timeMonth": 2901,
+    "timeYear": 2858,
     "dailyMinutesDown": {
       "2025-11-12": 56,
       "2025-11-08": 62,
@@ -1068,8 +1064,7 @@
       "2024-12-03": 1440,
       "2024-12-02": 1440,
       "2024-12-01": 1440,
-      "2024-11-30": 1440,
-      "2024-11-29": 1440
+      "2024-11-30": 1440
     }
   },
   {
@@ -1084,10 +1079,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 594,
-    "timeDay": 333,
-    "timeWeek": 496,
-    "timeMonth": 477,
-    "timeYear": 577,
+    "timeDay": 379,
+    "timeWeek": 414,
+    "timeMonth": 478,
+    "timeYear": 576,
     "dailyMinutesDown": {}
   },
   {
@@ -1096,16 +1091,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/dijitalisgucu.kocsistem.com.tr.ico",
     "slug": "ks-dijital-is-guecue",
     "status": "up",
-    "uptime": "64.48%",
+    "uptime": "64.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.47%",
-    "uptimeYear": "84.77%",
-    "time": 2273,
-    "timeDay": 2291,
-    "timeWeek": 2853,
-    "timeMonth": 2929,
-    "timeYear": 2273,
+    "uptimeYear": "84.86%",
+    "time": 2270,
+    "timeDay": 1095,
+    "timeWeek": 2467,
+    "timeMonth": 2914,
+    "timeYear": 2270,
     "dailyMinutesDown": {
       "2025-11-17": 23,
       "2025-11-12": 105,
@@ -1197,8 +1192,7 @@
       "2024-12-03": 1440,
       "2024-12-02": 1440,
       "2024-12-01": 1440,
-      "2024-11-30": 1440,
-      "2024-11-29": 1440
+      "2024-11-30": 1440
     }
   },
   {
@@ -1213,10 +1207,10 @@
     "uptimeMonth": "99.65%",
     "uptimeYear": "98.12%",
     "time": 2403,
-    "timeDay": 3298,
-    "timeWeek": 2363,
-    "timeMonth": 2747,
-    "timeYear": 2472,
+    "timeDay": 1265,
+    "timeWeek": 2276,
+    "timeMonth": 2744,
+    "timeYear": 2471,
     "dailyMinutesDown": {
       "2025-11-17": 22,
       "2025-11-12": 82,
